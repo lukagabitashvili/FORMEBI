@@ -1,0 +1,96 @@
+*{
+margin: 0;
+padding:0;
+font-size: 10px;
+list-style-type: none;
+text-decoration: none;
+
+}
+.scvear{
+width: 150px;
+height: 150px ;
+background-color: rgb(0, 0, 0);
+margin: 20px;
+border-width: 10px;
+border-color: rgb(3, 255, 24);
+}
+.dot{
+    border-style: dotted;
+}
+.dashed{
+    border-style: dashed;
+}
+.solid{
+    border-style: solid;
+}
+.double{
+    border-style: double;
+}
+.groove{
+    border-style: groove;
+}
+.ridge{
+    border-style: ridge;
+}
+.inset{
+    border-style: inset;
+}
+.outset{
+    border-style: outset;
+}
+.none{
+    border-style: none;
+}
+.hidden{
+    border-style: hidden;
+}
+.mix{
+    border-style: dotted dashed solid double;
+}
+.border{
+    border: 5px solid rgb(145, 241, 0);
+    border-radius: 50% 20% 5% 30%;
+}
+.kvadrati{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(15, 156, 238);
+    border: 5px solid black;
+}
+.wre{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(216, 128, 13);
+    border-radius: 50%;
+    border: 5px dotted pink;
+}
+.text{
+    width: 600px;
+    background-color: rgb(238, 22, 15);
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px;
+}
+     
+.divtext{
+    width: 400px; 
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    border: 1px dashed;
+}
+.martkutxedi{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 30px;
+    margin-top: 20px;
+}
+.kutxe{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(248, 8, 8);
+    border-radius: 60%;
+    border: 1px solid rgb(0, 0, 0);
+    
+}
+
